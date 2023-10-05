@@ -1,8 +1,0 @@
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\bin\Debug\ConversioniDecimalePuntato.exe.config
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\bin\Debug\ConversioniDecimalePuntato.exe
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\bin\Debug\ConversioniDecimalePuntato.pdb
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\obj\Debug\ConversioniDecimalePuntato.csproj.AssemblyReference.cache
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\obj\Debug\ConversioniDecimalePuntato.csproj.SuggestedBindingRedirects.cache
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\obj\Debug\ConversioniDecimalePuntato.csproj.CoreCompileInputs.cache
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\obj\Debug\ConversioniDecimalePuntato.exe
-C:\Users\Cristian\source\repos\ConversioniDecimalePuntato\obj\Debug\ConversioniDecimalePuntato.pdb
